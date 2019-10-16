@@ -1,0 +1,5 @@
+Ceci est la première ligne du fichier Fichier1.txt
+Ceci est la deuxième ligne du fichier Fichier1.txt
+Ceci est la troisième ligne du fichier Fichier1.txt
+Ceci est la quatrième ligne du fichier Fichier1.txt
+Etc
